@@ -7,7 +7,7 @@ Search
 // Tradução da "sidebar" esquerda
 Articles in this section
 
-How to create an event model starting from a pre-existing event model?
+How to create an event model starting from an existing one?
 
 What is an event model?
 
@@ -23,14 +23,14 @@ In a quick phrase, the event models are professional standarts of the organizati
 What is an event model: a greek story...
 
 Imagine that you were hired to organize a marriage in Greece. I believe you would
-have some doubts planning this event:
+have some doubts on planning this event:
 
 * Which kinds of suppliers take part in the event?
 * What are the deadlines to start contacting the suppliers?
 * How much does the bride and groom use to spend in each type of service, in Greece?
 * What is the schedule of a Greek marriage ceremony?
 
-A solution would be to look for a greek ceremonialist colleague and hope for her to
+A solution would be, to look for a greek ceremonialist colleague and hope for her to
 provide you with:
 
   1. A task list example (or checklist) with deadlines for a greek marriage;
@@ -48,8 +48,8 @@ Standart Tasks
 The standart task list is a model of which tasks should be done for that kind of event
 to succeed.
 
-It also contains information about when the tasks should begin and what is the due date
-for them to be concluded. By using the Model, it will help on defining the actual dates.
+It also contains information about when the tasks should begin and what is their deadline.
+Using the Model will help on defining the actual dates.
 
 Standart Costs
 The standart costs put together the services and products required on that kind of event.
