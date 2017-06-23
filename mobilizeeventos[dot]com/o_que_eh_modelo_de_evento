@@ -53,7 +53,7 @@ Using the Model will help on defining the actual dates.
 
 Standart Costs
 The standart costs put together the services and products required on that kind of event.
-It is also possible to set a percentage that each cost will have related to the event budget.
+It is also possible to set a percentage that each cost will have related to the event's budget.
 
 Why use a model?
 1. Ease: you create or import the event model just once, and after that you're
@@ -67,7 +67,7 @@ able to use that Model in any New Event.
 
 2. Agility: When using the model, the mobilize events automatic generates a task list
 and a costs spreadsheet specific for that event.
-  * Using the deadlines of the Model, the system create a task list with real dates
+  * Using the deadlines of the Model, the system creates a task list with real dates
   according to the date of the New Event.
   * The costs spreadsheet is also generated automatically (automagically ser quiser zuar).
   The estimate of costs is done according to the event budget.
