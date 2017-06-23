@@ -3,3 +3,19 @@
 // tradução do titulo e corpo do artigo:
 //title
 How to create an event model from an existing one?
+
+When creating a New Event Model on mobilize events, the event manager has the option
+to use an already created Model as a baseline.
+
+This is interesting for the management of certain types of events that may have some similarity between them.
+
+Lets go the steps:
+  1. In the side menu, access the Event Models module.
+  2. After choosing which model will serve as a baseline for the New Model, click in Duplicate.
+  [IMAGE]
+  3. Once the copy has been created (brilhei demais, juvenis diriam "after the copy is generated"),
+   open the New Model by clicking Edit.
+  [Image]
+  4. Now you're free to edit your New Model. The first step is chaging the Name.
+  5. The second step is edit, remove and create tasks to customize the New Model.
+  6. Last but not least, you can redefine the cost estimates of the New Model.
