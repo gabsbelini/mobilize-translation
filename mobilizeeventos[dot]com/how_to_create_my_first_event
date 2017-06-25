@@ -11,4 +11,137 @@ Tainan
 updated a month ago               Follow
 
 The event is the center of everything that happens inside mobilize events and probaly,
-inside your company aswell
+inside your company aswell. Here, every new event has its own section, your own clients,
+suppliers, guests, tasks and costs.
+
+Creating the Event
+
+The first step in order to create the event is to click in the button "Add Event"
+in the lower left corner of your home page.
+
+You'll be redirected to the event creation process, which is made of 4 steps:
+  * Inserting basic data
+  * Using an Event Model
+  * Inviting the Bride and Groom
+  * Starting the management
+
+So, let's get to it! :)
+
+Inserting the basic data
+
+The first screen of the process of creating the event looks like this one:
+[image]
+// traducao da imagem
+Event
+Ex: Marriage of Romeu and Juliet
+Date          Type of Event
+10/05/2018    Search
+Client
+Ex: Romeu Montechio
+Estimated number of guests:   Ex: 300
+Estimated budget:     U$ Ex: 40000
+Add information about the event`s location
+                Create Event
+
+The first step is to add the basic information of the event:
+  1. Event's Name: It's how it's gonna be referenced throughout the App. It's good practice
+  to use the Bride and Groom's name or something that will differ multiple events
+  that you're going to manage.
+
+  2. Event's date: It's mandatory to set a date, but don't worry you'll be able to change it later.
+
+  3. Type of Event: It's a field intended to group the many types of event that you organize (ex: marriage, graduation party, academics).
+
+  4. Client: It's who is hiring the event management company, usually being the bride and groom.
+  At this point you only register the client's name, but you'll be able to add more detailed
+  information later on.
+
+  5. Estimated number of guests: It's a number that we'll use when you and your clients
+  start inputting information into the guest's list.
+
+  6. Estimated Budget: We use this value to estimate the event's costs, providing
+  real estimates accordingly to your planned budget.
+
+  7. Location: fill in this field in case you and your clients have already decided the event's location.
+
+All set? Click in Create Event. The first step of the process is done!
+
+Using an Event Model
+
+The Event Models are standarts for event management, composed of a deadlines and tasks list
+and a standart costs spreadsheet. Click to learn more about the Event Models.
+
+Why use an Event Model?
+
+By using an Event Model throughout the process of creating your New Event you'll
+automatically generate:
+  * A task list with deadlines according to the event's date.
+  * the required products and services for the event and it's estimated costs.
+
+This will save you a lot of time on planning a new event.
+
+Choosing and applying a model
+
+  1. On the second step of the event creation process, you'll see the Event Models available on your platform.
+  [image]
+  //traducao da imagem
+  1. Creating the Event         2. Using a model      3. Inviting the bride and Groom
+
+  Romeu and Juliet Marriage   10/05/2018
+
+  Graduation party checklist      Standart Checklist -        Standart Checklist -
+  63 items                        Childish birthday           Marriage
+  see details                     45 items                    96 items
+                                  see details                 see details
+
+  2. Chose the model accordingly to the type of event that you're creating and click on it.
+  Notice that the card will be highlighted.
+  [Image]
+  //Traduzido acima.
+
+  3. After that you just have to click in the button Use this Model and the template will be applied in your New Event.
+
+  PS:You can skip the event model section by clicking in the button Skip.
+
+Inviting the Bride and Groom
+
+Inviting the bride and groom is a must do because by keeping up with and helping manage
+their event using mobilize events, you'll save time and increase the perceived value of your service:
+the bride and groom love it!
+
+Inputting the data
+
+  1. To send an invitation, you fill in the username, the email and the password.
+  [image]
+  //traducao da imagem
+  Romeu and Juliet's marriage   10/05/2018
+  Bride
+  Name
+  Juliet Cappoulet
+  Email                   Password
+  jucappoulet@msn.com     alohomora321
+  Groom
+  Name
+  Romeu Montecchio
+  Email                   Password
+  romeu@gmail.com         noidea123
+  Skip                    Invite
+
+  2. After filling out, click in the button Invite
+
+PS: You can also skip the bride and groom invitation by clicking in the button Skip
+
+What happens when I invite the bride and groom?
+
+By inviting a groom into mobilize events, an invitation is sent into his email,
+containing an access *link*, *login* and *password*, just like this one:
+[another F... image]
+//essa aqui eu to susse de traduzir agora, abraços.
+
+Warning! It's important to notice that the bride and groom's login only gives them access to their own event.
+
+Starting to manage
+
+Done! If you've got to the fourth step, the process of creating an event was successfully accomplished.
+
+Now, you can manage the task list's details, costs and guests, making your new event special and unique // QUE BONIIIIITO!
