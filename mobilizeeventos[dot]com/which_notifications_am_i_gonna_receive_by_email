@@ -58,4 +58,39 @@ Who receives the notification? Every user that is marked as responsible for the 
 
 4. Last known activity
 
-Every
+Every mobilize events user will receive notifications containing the last known activity
+of other users in the events that they are helping to manage.
+[IMPORTANT]
+When does this sending happens?
+It's up to the user to decide. He has three notification frequency options:
+Frequently, Daily or Never. The user can alter the frequency of the notifications on
+the platform.
+
+Who receives the notification?
+
+The notifications are aimed according to the user's link:
+  - The payments, guests and appointments notifications are sent to every user responsible for the event.
+  [image]
+  - The task related notifications are sent to every user responsible for each task.
+  [image]
+  See the example below:
+  [image]
+
+5. Next Appointments
+Appointments are one-off events that happen throughout the management of the "big" event.
+Some examples are: meetings, visits, product testing, space evaluations, etc.
+
+It is possible to notify everyone responsible for the event about the appointments.
+
+When are these messages sent? The notification is sent at the moment of creation,
+change and as a reminder a couple of hours before the appointment. See the example:
+[image]
+
+Who receives this notification? If the notification is activated (optional), every
+user that is responsible for the event (administrator and clients) receive a notification.
+See the example:
+[image]
+
+Conclusion
+If something isn't clear yet, get in touch with us and we will explain with a bit more details (and examples).
+We're making the notifications more and more! :)
