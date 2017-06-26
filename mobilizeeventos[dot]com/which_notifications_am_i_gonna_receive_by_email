@@ -1,1 +1,34 @@
 Which notifications am I going ["gonna" informal] to receive via email?
+
+At mobilize events, we are well aware that writing hundreds of emails to warn clients
+and suppliers of event related stuff is one of the most boring parts of being an
+event manager.
+
+So, the mobilize automates a couple of these emails. With the notifications, we warn those
+involved in the event about the important happenings.
+
+The notifications are send in the mobilize events user's emails. We mark with an (*)
+the ones that are sent only to administrators.
+
+Types of Notifications
+
+  1. Financial Control
+  2. Pendencies from all events
+  3. Pendencies from the event
+  4. Last known activity
+  5. Next appointments
+
+We're going to discuss every one of them, starting with the financial notifications
+
+1. Financial Control*
+
+The management companies (administrator users) have access to the Financial module,
+in order to control the revenues and expenses and the monthly balance.
+
+The mobilize sends a notification with the Company's revenues and expenses that are still due.
+
+When are these messages sent? Weekly, at monday mornings.
+Who receives the notification? The admin registred email from mobilize environment.
+[image]
+
+2. Pendencies from all Events*
