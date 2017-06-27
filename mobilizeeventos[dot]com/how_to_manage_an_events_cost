@@ -1,0 +1,73 @@
+//https://mobilizeeventos.zendesk.com/hc/pt-br/articles/115001273628-Como-gerenciar-os-Custos-de-um-Evento-
+
+How to manage the Costs of an Event? // achei q fica melhor do que "how to manage an event's cost, assim fica singular parece"
+
+
+The Costs Spreadsheet is the heart of the event's financial management, ranging
+from supplier's quotation values to the installments payment control.
+
+You'll be able to decide, along with your clients, estimates about how much are
+they planning to invest in the event, in which services or products the budget
+will be invested and what are the indicated suppliers, quoted and hired for the event.
+
+Tip: You can automatically (automagically) generate a Costs Spreadsheet using an Event Model.
+
+Managing Costs
+  - Accessing the Costs Spreadsheet
+  - Understanding the Costs Spreadsheet structure
+  - Understanding the estimated cost and the real cost
+  - Adding supplier's quotations
+  - Discarding unnecessary costs
+
+Accessing the Costs Spreadsheet
+To access an Event's Costs Spreadsheet, on the side menu click on:
+Events > Romeu and Juliet Marriage (event's name) > Costs
+You'll see a spreadsheet like this one:
+[image]
+
+Understanding the Costs Spreadsheet Structure
+The Costs Spreadsheet is structured in three layers: supplier category,
+service or product and supplier's quotation.
+It is structured this way:
+[image]
+Supplier's Category: These are supplier's categories that provide the same
+types of service. Example: Buffet, Private Security, Decoration.
+Product or Service: It is the service or product provided by that supplier's
+category, and will be used in the event. Examples in the category Stationers: Invitation, Menu and Tags.
+Supplier's Quotation: It is the quotation of a company that might be hired
+to provide service in that event. It may have more than one supplier for each
+service. Examples in the category Stationers and in the product Invitations:
+Tuiuti Graphics and Maranata Graphics.
+
+Understanding the Estimated Cost and Real Cost
+  - Estimated Cost: You can edit the cost estimative of a Product/Service, to
+  anticipate the total cost of the event. It is also useful to compare to real
+  quotations that will be added later on.
+  Clicking on the column Estimated Cost, you can change the estimative:
+  [image]
+  - Real Cost: the value of every quotation defined as Hired of an Event's
+  Costs Spreadsheet will be added to the Real Cost of the Event.
+
+Adding supplier's quotations
+Assuming you've used an Event Model and your Costs Spreadsheet has it has an
+already built structure, in order to add a quotation:
+  1. Click on the button (...) at the end of an Event Cost line and select +
+  Add Supplier in Cost's Name
+  [image]
+  2. On the first field you can search (or create) the Supplier quoted for that
+  Event.
+  3. Fill in the total value of the quotation.
+  4. Check the quotation status.
+  5. In case it is a hired quotation, you can check the paid value.
+  [image]
+PS.: It is possible to divide the cost into two or more parcels, to the mobilize
+events system to send payment notifications. Learn more in the article Creating
+cost installments of an Event.
+
+Discarding unnecessary Costs
+Before getting to the ideal budget to the Event, it is possible for you and your
+clients to change the estimates, add but mainly remove Costs that are'nt gonna
+take part in the Event.
+  1. Click on the button (...) at the end of an Event Cost line and select x
+  Remove Cost and Suppliers
+  2. Confirm the operation.
