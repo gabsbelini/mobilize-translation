@@ -1,0 +1,43 @@
+Creating cost installments of an Event
+
+
+Some event managers provide their clients with a service that includes the
+suppliers installment payment control.
+
+If  this is your case, this is a tool that is going to save you lots of time.
+Otherwise, you can provide the tool to your clients, which is going to increase
+the perceived value of your business.
+
+In the previous article, we learned how to add a Cost into an Event Costs Spreadsheet.
+To create and manage the installments the process is pretty similar.
+
+Creating Cost installments
+  - Accessing a cost installments control
+  - Creating the installments
+  - Scheduling an installment payment
+
+Accessing a cost installments control
+
+To access the cost installment control, on the side menu click on:
+Events > Romeu and Juliet Marriage (name of the event)>Costs>Select a supplier's
+quotation >Click on the button Split cost into installments.
+[image]
+
+Creating the installments
+The supplier's quotation has a total value, already defined in the previous page.
+
+To be able to Save Installments you must add a number of parcels which
+the sum of the values matches the total quotation cost. To add the parcels,
+follow the steps below:
+[image]
+1. Click on the button Add New Parcel and a new blank line will be shown.
+2. Type the parcel value.
+3. Choose the due date of the parcel
+4. Check if the total value is equal to the sum of the installments total
+[image]
+
+Scheduling an installment payment
+
+To set a parcel as paid, access the Installments Control, check the checkbox
+(as highlighted on the image below) and click on Save.
+[image]
