@@ -1,0 +1,28 @@
+//https://mobilizeeventos.zendesk.com/hc/pt-br/articles/115001378608-Como-confirmar-ou-cancelar-a-presen%C3%A7a-de-um-convidado-
+
+
+How to confirm (or cancel) the attendance of a guest?
+
+Follow these steps
+  1. After accessing the Invitation, find the Guest that you want to confirm
+  attendance.
+  [image]
+  2. Click on the (...) button next to the Guest's card.
+  3. Click over one of the allowed situations for that guest:
+  [image]
+  4. If everything went as expected, the Guest's status will be updated, as shown
+  below:
+  [image]
+
+Done! Use the same process to mark a Guest as canceled or undo the changes,
+marking it as pending.
+
+Invitation status
+
+On the top right corner of the Invitation you'll see it's status. It's status
+is directly linked to the Guest's status, being organized as follows:
+  - Confirmed: if there is at least one confirmed Guest.
+  [image]
+  - Canceled: if there isn't any confirmations and at least one canceled Guest.
+  - Pending: if all the guests are pending.
+  [image]
