@@ -1,0 +1,46 @@
+//https://mobilizeeventos.zendesk.com/hc/pt-br/articles/115001380668-Como-gerenciar-minhas-receitas-e-despesas-
+
+How to manage my revenues and expenses?
+
+Besides being an event management tool, mobilize events also allows you to
+do the Financial Control of your company in an easy way.
+
+Managing the revenues and expenses
+  - Understanding the Financial module structure
+  - Creating a financial movement
+
+Understanding the Financial module structure
+
+We developed a pretty simple and flexible Financial module, so that
+you can use it the way you organize your bills.
+
++In and -Out
+
+The financial movements are divided in Revenues and Expenses. Aside from the fact
+that one brings lots of happiness to your accounting and the other not so much,
+in the Financial module they don't have any other technical differences.
+
+Categories
+
+You can create unlimited Categories to group your movimentations. This gives you
+the freedom to create groups such as "Fixed Expenses", "Marcos Sallary" or group
+the revenues of an event using it's own name "Ivone and Neto wedding".
+
+The Categories are very important because you'll be able to filter the movements
+by category, acquiring very useful reports for the management of your company.
+
+Creating a financial movement
+  1. Access the Financial module by clicking on the ($) button on the side menu.
+  You'll see a screen similar to this one:
+  [image]
+  2. Click on the (+) button on the lower right corner.
+  3. Choose to add a Revenue or Expense.
+  [image]
+  4. Fill in the financial movement data: Description (required), Value (required),
+  Status, Due Date (required), Category, Payment Method and Comments.
+  PS.: We will be addressing partial movimentations on the next article.
+  [image]
+  5. All ready? Click on the Add button.
+
+That's it! Your financial movement was created. To add an expense, follow
+the same steps.
