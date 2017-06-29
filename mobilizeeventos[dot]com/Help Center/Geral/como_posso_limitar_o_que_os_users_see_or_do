@@ -29,3 +29,33 @@ To choose which User Profile you want to manage, select the button:
 [image]
 You'll see a screen like this:
 [image]
+
+Managing the Access to the Modules
+
+The modules are like the parts of the mobilize events platform.
+
+By default, some modules are blocked from the Client User Profile, like the
+access to your Financial and Client modules.
+
+This means that Client Users won't even see buttons or links to these modules
+while they're navigating through mobilize events.
+
+To disable or enable full access to one of the modules,
+ click the corresponding ON/OFF button. In case the button turns red, the module
+ will be deactivated for that User Profile, as will be all the corresponding services:
+ [image]
+
+ Managing the access to the services
+
+ The services are the features that an User in a mobilize event's module.
+
+ Usually, the services allow the User to create, edit or remove some kind of object
+ on the platform (such as an Event or a Supplier).
+
+ Let's assume that a service is deactivated for an User Profile. For example,
+ we deactivated the service "Create suppliers" for Client Users. This will
+ cause the Client Users not to be able to and not even see the Add Supplier button.
+
+ To deactivate or activate the access to a service, click on the corresponding ON/OFF button.
+ In case the button turns red, the service will be deactivated for that User Profile.
+ [image]
