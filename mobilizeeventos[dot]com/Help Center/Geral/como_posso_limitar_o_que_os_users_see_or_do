@@ -1,0 +1,31 @@
+//https://mobilizeeventos.zendesk.com/hc/pt-br/articles/115001158787-Como-posso-limitar-o-que-os-usu%C3%A1rios-v%C3%AAem-ou-fazem-
+
+
+How can I restrict what users see or do?
+
+At mobilize events, you're able to restrict the access of your users so that the
+system fits into your company's standarts. You make this type of control through
+the Access Permissions.
+
+Warning! Some settings in Access Permissions might drastically change the way your
+environment works at mobilize events. If you have any doubts, get in touch with us first! :)
+
+Access Permissions
+  - Accessing the Access Permissions
+  - Managing the access to the Modules
+  - Managing the Access to the Services
+
+Accessing the Access Permissions
+
+To access the Access Permissions, on the top right corner click on Settings >
+Access Permissions.
+
+User Profiles
+
+Mobilize counts, by default, on two User Profiles: Administrador and
+Client. Thus, you can control both what your collaborators and your clients can access.
+
+To choose which User Profile you want to manage, select the button:
+[image]
+You'll see a screen like this:
+[image]
