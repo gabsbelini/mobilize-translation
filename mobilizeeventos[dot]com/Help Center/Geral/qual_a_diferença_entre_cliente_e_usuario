@@ -17,4 +17,18 @@ Types of Users
   - Administrator User: the responsible for the events organization company (ceremonialist)
   - Collaborator User: the collaborators and employees of the company (secretaries, assistants).
   - Usuário Cliente: the hosts of the events organized by the company (engaged couple,
-  father of the engaged couple, graduates, )
+  engaged couple's parents, graduates, business commission, etc).
+
+  Each Event might have none, one or more Client Users.
+
+  What is a Client?
+
+  At mobilize events, the Client is the legal responsible for the Event.
+
+  Detailed information about that event's contractor are stored on the Client be it
+  the host itself, a relative or the contracting company (in case of business events).
+
+Each Event has only one Client
+
+Observation:Saving the Client's information at mobilize events does not create an User.
+To do that, add an User: the login will be created and sent by email to the client.
