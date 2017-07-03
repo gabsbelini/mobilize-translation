@@ -1,0 +1,106 @@
+
+//http://stackoverflow.com/questions/5057595/best-way-to-manage-text-displayed-to-users-in-php
+
+"Marcos, Jaque e mais 2"
+
+"Marcos comentou nos orçamentos de buffet.",
+"Marcos e Jaque comentaram nos orçamentos de buffet.",
+"Marcos alterou as estimativas de {src_name}.",
+"Marcos e Jaque comentaram nos orçamentos de buffet",
+
+"Marcos fez upload de um arquivo nos orçamentos de buffet.",
+"Marcos e Jaque fizeram uploads de arquivos nos orçamentos de buffet.",
+
+"Marcos fez 8 alterações nos orçamentos de buffet.",
+"Marcos e Jaque fizeram 8 alterações nos orçamentos de buffet.",
+
+"Marcos fez 8 alterações nas estimativas de custo do evento.",
+"Marcos e Jaque fizeram 8 alterações nas estimativas de custo do evento.",
+
+"Marcos foi adicionado como responsável da tarefa contratar buffet.",
+"Marcos e Jaque foram adicionados como responsáveis da tarefa contratar buffet.",
+
+"Marcos comentou nos orçamentos de buffet",
+"Marcos e Jaque comentaram nos orçamentos de buffet",
+
+"Marcos marcou a tarefa contratar buffet como finalizada.",
+"Marcos e Jaque marcaram a tarefa contratar buffet como finalizada.",
+
+"Marcos criou a tarefa contratar buffet.",
+"Marcos e Jaque criaram a tarefa contratar buffet.",
+
+"Marcos fez alterações na tarefa contratar buffet.",
+"Marcos e Jaque fizeram alterações na tarefa contratar buffet.",
+
+"Marcos fez upload de um arquivo na tarefa contratar buffet.",
+"Marcos e Jaque fizeram uploads de arquivos na tarefa contratar buffet.",
+
+"Marcos fez 8 alterações na tarefa contratar buffet.",
+"Marcos e Jaque fizeram 8 alterações na tarefa contratar buffet.",
+
+"Marcos atualizou 8 tarefas do evento.",
+"Marcos e Jaque atualizaram 8 tarefas do evento.",
+
+"Marcos cancelou a presença de um convidado no convite Família do Kleber.",
+"Marcos e Jaque cancelaram a presença de convidados no convite Família do Kleber.",
+
+"Marcos confirmou um convidado no convite Família do Kleber.",
+"Marcos e Jaque confirmaram convidados no convite Família do Kleber.",
+
+"Marcos fez 8 alterações no convidado Kleber.",
+"Marcos e Jaque fizeram 8 alterações no convidado Kleber.",
+
+"Marcos fez 8 alterações na lista de convidados do evento.",
+"Marcos e Jaque fizeram 8 alterações na lista de convidados do evento.",
+
+"Marcos criou o convite Sr. e Sra. Fidelis.",
+"Marcos e Jaque criaram o convite Sr. e Sra Fidelis.",
+
+"Marcos fez 8 alterações no convite {src_name}.",
+"Marcos e Jaque fizeram 8 alterações no convite {src_name}.",
+
+"Marcos criou 8 convites no evento.",
+"Marcos e Jaque criaram 8 convites no evento.",
+
+"Marcos criou o evento Casamento João e Maria.",
+"Marcos e Jaque criaram o evento Casamento João e Maria.",
+
+"Marcos foi adicionado como responsável do evento Casamento João e Maria.",
+"Marcos e Jaque foram adicionados como responsáveis do evento Casamento João e Maria.",
+
+"Marcos comentou no contrato com o fornecedor Buffet Grande Mesa.",
+"Marcos e Jaque comentaram no contrato com o fornecedor Buffet Grande Mesa.",
+
+"Marcos contratou o fornecedor Buffet Grande Mesa.",
+"Marcos e Jaque contrataram o fornecedor Buffet Grande Mesa.",
+
+"Marcos criou um orçamento com o fornecedor Buffet Grande Mesa.",
+
+"Marcos alterou o contrato com o fornecedor Buffet Grande Mesa.",
+"Marcos e Jaque alteraram dados do contrato com o fornecedor Buffet Grande Mesa.",
+
+"Marcos alterou o orçamento do fornecedor Buffet Grande Mesa.",
+"Marcos e Jaque alteraram o orçamento do fornecedor Buffet Grande Mesa.",
+
+"Marcos fez upload de um arquivo no contrato Buffet Grande Mesa.",
+"Marcos e Jaque fizeram uploads de arquivos no contrato Buffet Grande Mesa.",
+
+"Marcos atualizou as parcelas do contrato com o fornecedor Buffet Grande Mesa.",
+"Marcos e Jaque atualizaram as parcelas do contrato com o fornecedor Buffet Grande Mesa.",
+
+"Marcos fez 8 alterações no contrato com o fornecedor Buffet Grande Mesa.",
+"Marcos e Jaque fizeram 8 alterações no contrato com o fornecedor Buffet Grande Mesa.",
+
+"Marcos fez 8 alterações nos custos do evento.",
+"Marcos e Jaque fizeram 8 alterações nos custos do evento.",
+
+"Marcos criou o compromisso Reunião com os Noivos.",
+
+"Marcos alterou o compromisso Reunião com os Noivos.",
+"Marcos e Jaque alteraram o compromisso Reunião com os Noivos.",
+
+"Marcos fez 8 alterações no compromisso Reunião com os Noivos.",
+"Marcos e Jaque fizeram 8 alterações no compromisso Reunião com os Noivos.",
+
+"Marcos fez 8 alterações nos compromissos do evento.",
+"Marcos e Jaque fizeram 8 alterações nos compromissos do evento.",
