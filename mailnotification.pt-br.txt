@@ -4,7 +4,7 @@
 "Marcos, Jaque e mais 2"
 
 "Marcos comentou nos orçamentos de buffet.",
-"Marcos e Jaque comentaram nos orçamentos de buffet.",
+"Marcos e Jaque cochanmentaram nos orçamentos de buffet.",
 "Marcos alterou as estimativas de {src_name}.",
 "Marcos e Jaque comentaram nos orçamentos de buffet",
 
