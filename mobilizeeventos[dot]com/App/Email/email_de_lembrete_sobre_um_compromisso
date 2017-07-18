@@ -1,0 +1,18 @@
+Title
+[mobilize] Reminder: {appointment's name}
+
+Standart Text
+Hi {name},
+
+The {Believe's} wanted to remind you of the appointment of the {my big party} event.
+
+Title: {title of the appointment}
+Date:{date}
+location:{location}
+Comments:{comments}
+
+Button "see event" (go to event) pode ficar melhor, vc q manda...
+
+This is a notification sent by the user that created the appointment at mobilize events.
+
+ 

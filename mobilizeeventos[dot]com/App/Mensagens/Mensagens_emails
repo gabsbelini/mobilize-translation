@@ -1,0 +1,12 @@
+Add recipients:
+  Recipients successfully added
+  Failure when adding recipients.
+Resend checking:
+  Are you sure that you want to resend this email?
+Forward checking:
+  Are you sure you want to forward this email?
+Valid checking:
+  Attention, insert a valid email address for this message to be sent.
+  //Aqui o "sent" eh de enviado e não encaminhado, se quiser deixar com sentido
+  //de encaminhado coloca "forwarded" no lugar de sent
+  

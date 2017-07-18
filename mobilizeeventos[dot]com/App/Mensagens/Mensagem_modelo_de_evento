@@ -1,0 +1,47 @@
+Apply model:
+  Step 1 - Choosing the Event
+  Step 2 - Choose the Event Model
+  Step 3 - Defining the responsibles
+  Step 4 - Confirm
+
+  Checking: You've already added this user as responsible.
+
+  Event model successfully applied!
+  Failure when applying the event model
+Read groups:
+  Failure when reading user's groups
+Remove model checking:
+  Are you sure you want to remove the model?
+  Comment: This won't cause changes to any previously created task in any of the events.
+Duplicate model:
+  Event model successfully duplicated
+  Failure when duplicating event model.
+Duplicate model checking:
+  Are you sure you want to duplicate the Event Model? This will create an identical
+  copy of this Model.
+Add task to the model checking:
+  Attention, you must fill in the required fields when adding a task to the model.
+Edit model's task checking:
+  Attention, you must fill in the required fields when modifying a task of the model.
+Remove subitems:
+  Are you sure you want to remove the subitems list from this task?
+Remove tasks:
+  Are you sure you want to remove all of the tasks from this Event Model?
+  PS.: This action cannot be undone.
+Import costs checking:
+  Generate costs? This action causes costs to be created with the same names as the
+  tasks from your Event Model. Is that what you want?
+Add:
+  Add new category
+Access:
+  Denied access.
+Invalid:
+  Invalid date.
+Standart message:
+  You still don't have event models. Generate the entire structure of new events with just one click!
+Standart message (2):
+  With event models, you can generate the structure of a new event in one click!
+  Let's add the first task?
+Standart message (3):
+  Generate the cost structure of new events in one click! Do you prefer to generate
+  from the tasks or to create the costs?

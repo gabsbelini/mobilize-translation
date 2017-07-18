@@ -1,0 +1,34 @@
+// Budget é o orçamento no sentido de quanto vc tem pra gastar,
+//quotation eh pra cotação de preços, acho que aqui fica melhor quotation mesmo, mas
+//caso o sentido seja diferente, vc mesmo pode arrumar, ou fala cmg q nois ve!
+//(to deixando bastante comentario pq vou te cobrar por palavra, n liga nao kkkk)
+Change Quotation:
+  Costs spreadsheet quotation was successfully updated!
+Remove contract checking:
+  Are you sure that you want to remove the contract from this event's costs spreadsheet?
+Remove services checking:
+  Are you sure that you want to remove the 8 selected service(s)
+
+  Warning! Any related quotation will also be removed and this action cannot be undone.
+Supplier Hired:
+  Supplier successfully hired!
+Remove all checking:
+  Are you sure that you want to remove all categories, products/services and quotations
+  from this costs spreadsheet? This action cannot be undone.
+Change payments:
+  Contract payments successfully updated!
+  Failure when trying to update payments./ Failure when updating payments
+Remove payments:
+  Contract payments successfully removed!
+  Failure when removing contract payments!
+Remove payments checking:
+  Are you sure that you want to remove the supplier's payments?
+Add payments checking:
+  You must fill all the value and date fields before adding payments
+Payment bill warning:
+  Just to inform you, the sum of the payments didn't match the value of the contract.
+Standar message:
+  You don't have any scheduled payments for the event. Let's maintain control?
+Standar message (2):
+  Control all the necessary services, quotations and contracts to make your event a success.
+  

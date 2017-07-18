@@ -1,0 +1,41 @@
+List:
+  List of events updated successfully
+Create:
+  Event successfully created.
+  Failure when trying to add an event.
+Change:
+  Event information updated successfully
+  Failure when trying to change event's information
+Change profile picutre:
+  Profile picture updated!
+  Failure when trying to add a profile picture
+Create checking:
+  Ops... You must add at least one client to the event
+Create checking 2:
+  Ops... You must choose an event type
+Create checking 3:
+  You must choose an event model! Click over the chosen event model to select it
+Change checking:
+  Attention, you must complete the required fields when changing the information of an event.
+Remove:
+  Are you sure you want to remove this event?
+
+  As consequence, all tasks, comments and responsabilities, guest lists, costs and
+  other event related registers will be permanently excluded. But at the end...
+  your wish is what comes prevails.
+
+  Do you wish to continue Mr(s).?
+
+  Event successfully removed
+  Failure when trying to remove event.
+Limit Error:
+  Warning! You've reached the limit of events for this plan.
+Required field error:
+  Ops! The fields name and date are required when creating the event.
+Required Client error:
+  Ops! We did not found the client of the event.
+Standar message:
+  You aren't organizing events yet. Create the first one!
+Search message:
+  We couldn't find any active event in this search
+  
