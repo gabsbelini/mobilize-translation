@@ -1,0 +1,13 @@
+Create:
+  An appointment was added successfully
+  Failed when trying to add an appointment
+Change:
+  Appointment changed successfully
+  Failed when trying to change appointment
+Remove:
+  Are you sure that you want to remove this appointment?
+  Appointment removed successfully
+  Failed when trying to remove appointment
+Standart message:
+  Have any appointments? Add them here!
+  

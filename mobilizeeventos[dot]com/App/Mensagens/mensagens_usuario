@@ -1,0 +1,10 @@
+Invited user:
+  User successfully linked to the event!
+  Failure when trying to link user to the event.
+Removed User:
+  User successfully unlinked from the event!
+  Failure when trying to unlink user from the event
+Invite checking:
+  You must fulfill the required fields before sending an invitation.
+User error:
+  User's profile error. Get in touch with us, please?

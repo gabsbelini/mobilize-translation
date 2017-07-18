@@ -1,0 +1,34 @@
+Remove invitation checking:
+  You didn't save the invitation. Are you sure you want to discard it and get back to
+  the Guest List?
+Discard invitation:
+  Invitation successfully discarded!
+Loading invitation:
+  Wait, we are saving the previous invitation.
+Create invitation checking:
+  Attention! You must fill the name of the invitation before adding it.
+Remove invitation checking:
+  Are you sure that you want to remove the invitation and all its guests?
+Create invitation:
+  Invitation successfully created
+  Failure when adding invitation.
+Read invitation:
+  Failure when reading invitation data.
+Change invitation:
+  Failure when updating invitation data.
+Create guests group:
+  Guests group successfully added!
+  Failure when adding guests group.
+Import guests group:
+  Guests group successfully imported!
+  Failure when importing guests group.
+Add guest checking:
+  Attention: You need to fill in the name of the invitation before adding it.
+Add guest checking (2):
+  Ops, you need to save the invitation first!
+Standart message:
+  How about adding the first invitations and guests?
+Standart message (2):
+  Hm, there aren't any guests yet. Invite the first ones.
+Search message:
+  We couldn't find any guest in this search.

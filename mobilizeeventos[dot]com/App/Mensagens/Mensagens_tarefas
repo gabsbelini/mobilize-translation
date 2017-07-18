@@ -1,0 +1,40 @@
+List tasks:
+  Task list successfully updated
+Added Task:
+  Task successfully added!
+  Failure when adding a task
+Removed task:
+  Task successfully removed!
+  Failure when removing a task.
+Removed List:
+  Task list successfully removed
+  Failure when removing task list.
+Rescheduled tasks:
+  The selected tasks dates were successfully redefined!
+  Failure when redefining the selected tasks dates.
+Attachment added:
+  Attachment successfully sent!
+  Failure while adding attachment.
+Attach checking link:
+  It didn't work... remember to type the link's address!
+Supplier checking:
+  You must choose a cost.
+  You must choose a supplier.
+Supplier removed
+  Are you sure you want to remove the suppler (name) from the event (name)?
+
+  Warning! You'll also be removing this supplier from the Event costs spreadsheet.
+Responsible added:
+  Responsible successfully added!
+  Failure when adding responsible.
+Responsible checking:
+  You must choose a responsible!
+Remove checking:
+  Are you sure you want to remove the selected tasks?
+  Warning! This action cannot be undone.
+Duplicate subitem warning:
+  You've already created a sub-items list!
+Standart Message:
+  Peace! You don't have any pending tasks in this period.
+Standart Message (2):
+  The task list is the step-by-step for the event to be a success![Use event model]

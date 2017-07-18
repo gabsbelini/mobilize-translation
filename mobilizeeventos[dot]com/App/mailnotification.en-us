@@ -1,0 +1,107 @@
+//vou tentar seguir mais ou menos a forma como o facebook usa pra notificações.
+"Marcos, Jaque and 2 others"
+
+"Marcos commented on the buffet budgets.",
+"Marcos and Jaque commented on the buffet budgets.",
+"Marcos changed the estimate of {src_name}.",
+"Marcos and Jaque commented on the buffet budgets",
+
+"Marcos uploaded a file on the buffet budgets.",
+"Marcos and Jaque uploaded files on the buffet budgets.",
+
+"Marcos made 8 changes to the buffet budget.",
+"Marcos and Jaque made 8 changes on the buffet budget.",
+
+"Marcos made 8 changes to the Event's cost estimates",
+"Marcos and Jaque made 8 changes to the Event's cost estimates",
+
+"Marcos was added as responsible for the task of hiring a buffet.",
+//provavelmente "contratar buffet" vai ser uma variavel, então
+//talvez fique melhor "Marcos was added as responsible of the task hire a buffet."
+"Marcos and Jaque were added as responsible for the task of hiring a buffet."
+//Mesma coisa, "Marcos and Jaque were added as responsible of the task hire a buffet."
+
+"Marcos commented on the buffet budgets",
+"Marcos and Jaque commented on the buffet budgets",
+
+"Marcos set the hire a buffet task as completed.",
+"Marcos and Jaque set the hire a buffet task as completed.",
+
+"Marcos created the task hire a buffet.",
+"Marcos and Jaque created the task hire a buffet",
+
+"Marcos made changes to the task hire a buffet",
+"Marcos and Jaque made changes on the task hire a buffet",
+
+"Marcos uploaded a file on the task hire a buffet"
+"Marcos and Jaque uploaded files on the task hire a buffet"
+
+"Marcos made 8 changes on the task hire a buffet"
+"Marcos and Jaque made 8 changes on the task hire a buffet"
+
+"Marcos updated 8 tasks of the event"
+"Marcos and Jaque updated 8 tasks of the event"
+
+"Marcos canceled the presence of a guest on the Kleber's Family invitation"
+"Marcos and Jaque canceled the presence of guests on the Kleber's Family invitation"
+
+"Marcos confirmed a guest on the invitation Kleber's Family"
+"Marcos and Jaque confirmed guests on the invitation Kleber's Family"
+
+"Marcos made 8 changes on the guest Kleber"
+"Marcos and Jaque made 8 changes on the guest Kleber"
+
+"Marcos made 8 changes to the event's guest list"
+"Marcos and Jaque made 8 changes to the event's guest list."
+
+"Marcos created the invitation Mr and Mrs Fidelis"
+"Marcos and Jaque created the invitation Mr and Mrs Fidelis"
+
+"Marcos made 8 changes to the invitation {src_name}"
+"Marcos and Jaque made 8 changes to the invitation {src_name}."
+
+"Marcos created 8 invitations on the event"
+"Marcos and Jaque created 8 invitations on the event"
+
+"Marcos created the event Joao and Maria Wedding"
+"Marcos and Jaque created the event Joao and Maria wedding"
+
+"Marcos was added as responsible of the event Joao and Maria wedding"
+"Marcos and Jaque were added as responsible for the event Joao and Maria wedding."
+
+"Marcos commented on the contrat with the supplier Buffet Grande Mesa"
+"Marcos and Jaque commented on the contract with the supplier Buffet Grande Mesa"
+
+"Marcos hired the supplier Buffet Grande Mesa"
+"Marcos and Jaque hired the supplier Buffet Grande Mesa"
+
+"Marcos created a quotation with the supplier Buffet Grande Mesa"
+
+"Marcos changed the contract with the supplier Buffet Grande Mesa"
+"Marcos and Jaque changed contractual information with the supplier Buffet Grande Mesa."
+
+"Marcos changed the budget of the supplier Buffet Grande Mesa"
+"Marcos and Jaque changed the budget of the supplier Buffet Grande Mesa."
+
+"Marcos uploaded a file to the Buffet Grande Mesa's contract."
+"Marcos and Jaque uploaded files to the Buffet Grande Mesa's contract"
+
+"Marcos updated the installments with the supplier Buffet Grande Mesa"
+"Marcos and Jaque updated the installments of the contract with the supplier Buffet Grande Mesa"
+
+"Marcos made 8 changes on the contrat with the supplier Buffet Grande Mesa."
+"Marcos and Jaque made 8 changes on the contract with the supplier Buffet Grande Mesa."
+
+"Marcos made 8 changes to the event costs"
+"Marcos and Jaque made 8 changes to the Event costs"
+
+"Marcos created the appointment Meeting with the engaged couple"
+
+"Marcos changed the appointment Meeting with the engaged couple"
+"Marcos and Jaque changed the appointment Meeting with the engaged couple"
+
+"Marcos made 8 changes on the appointment meeting with the engaged couple"
+"Marcos and Jaque made 8 changes on the appointment meeting with the engaged couple"
+
+"Marcos made 8 changes to the Event Appointments"
+"Marcos and Jaque made 8 changes to Event Appointments."
