@@ -1,14 +1,14 @@
-Which notifications am I going ["gonna" informal] to receive via email?
+Which notifications am I going ["gonna" informal] to receive via email? // se for colocar gonna, tem q tirar o "to"
 
 At mobilize events, we are well aware that writing hundreds of emails to warn clients
 and suppliers of event related stuff is one of the most boring parts of being an
-event manager.
+event organizer.
 
 So, the mobilize automates a couple of these emails. With the notifications, we warn those
 involved in the event about the important happenings.
 
-The notifications are send in the mobilize events user's emails. We mark with an (*)
-the ones that are sent only to administrators.
+The notifications are send in the mobilize events user's emails. We mark
+the ones that are sent only to administrators with an (*).
 
 Types of Notifications
 
@@ -22,13 +22,13 @@ We're going to discuss every one of them, starting with the financial notificati
 
 1. Financial Control*
 
-The management companies (administrator users) have access to the Financial module,
+The organizing companies (administrator users) have access to the Financial module,
 in order to control the revenues and expenses and the monthly balance.
 
-The mobilize sends a notification with the Company's revenues and expenses that are still due.
+The mobilize sends a notification with the Company's revenues and expenses that are still pending.
 
 When are these messages sent? Weekly, at monday mornings.
-Who receives the notification? The email that was registered as administrator at
+Who receives the notification? The email that was registered as administrator at the
 mobilize environment.
 [image]
 
@@ -39,7 +39,7 @@ regarding all events that the Company organizes in the App, as an administrator 
 The notification lists the number of pending tasks, payments and next
 appointments in each of the company's events.
  When are these messages sent? Weekly, at monday mornings.
- Who receives the notification? The email that was registered as administrator at
+ Who receives the notification? The email that was registered as administrator at the
  mobilize environment.
  [image]
 
@@ -59,7 +59,7 @@ Who receives the notification? Every user that is marked as responsible for the 
 4. Last known activity
 
 Every mobilize events user will receive notifications containing the last known activity
-of other users in the events that they are helping to manage.
+of other users in the events that they are helping to organize.
 [IMPORTANT]
 When does this sending happens?
 It's up to the user to decide. He has three notification frequency options:
@@ -68,7 +68,7 @@ the platform.
 
 Who receives the notification?
 
-The notifications are aimed according to the user's link:
+The notifications are aimed according to the user's linking:
   - The payments, guests and appointments notifications are sent to every user responsible for the event.
   [image]
   - The task related notifications are sent to every user responsible for each task.
@@ -87,10 +87,10 @@ change and as a reminder a couple of hours before the appointment. See the examp
 [image]
 
 Who receives this notification? If the notification is activated (optional), every
-user that is responsible for the event (administrator and clients) receive a notification.
+user that is responsible for the event (administrator and clients) receives a notification.
 See the example:
 [image]
 
 Conclusion
 If something isn't clear yet, get in touch with us and we will explain with a bit more details (and examples).
-We're making the notifications more and more! :)
+We're improving the notifications more and more! :)
