@@ -1,7 +1,7 @@
 What a client can access at mobilize events?
 
 The client user has a more limited access than an administrator user.
-In general, the client has access only to his event and the suppliers.
+In general, the client has access only to his event and to the suppliers.
 
 By mobilize events default, the client has total access to the events in which he
 is a host.
