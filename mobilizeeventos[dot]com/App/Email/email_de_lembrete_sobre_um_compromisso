@@ -8,11 +8,9 @@ The {Believe's} wanted to remind you of the appointment of the {my big party} ev
 
 Title: {title of the appointment}
 Date:{date}
-location:{location}
+Location:{location}
 Comments:{comments}
 
-Button "see event" (go to event) pode ficar melhor, vc q manda...
+Button "see event"
 
 This is a notification sent by the user that created the appointment at mobilize events.
-
- 
