@@ -4,13 +4,19 @@ Title
 
 Due bills {company's name}
 
-Standar text
+Standart text
 The pending bills
 
-The financial records below are already expired or are bout to in the next couple of days.
+The financial records below are already expired or are about to expire in the next couple of days.
 As they haven't been paid yet we thought we should warn you:
 
-Value|Expire date| Description|Category|Status
+Value|Due Date| Description|Category|Status
 {registry list}
 
-To 
+To set them as already paid, you just have to go into the Financial area of your company // Nao consegui achar ~dar baixa~ em ingles, nem sinonimos,
+//coloquei ai tipo "pra definir eles como ja pagos, ......"
+inside mobilize events and define them as paid, okay?
+
+Button "Access my Financial area"
+
+Best regards.
