@@ -1,19 +1,20 @@
 //vou tentar seguir mais ou menos a forma como o facebook usa pra notificações.
+// Cala boca xenon.
 "Marcos, Jaque and 2 others"
 
-"Marcos commented on the buffet budgets.",
-"Marcos and Jaque commented on the buffet budgets.",
+"Marcos commented on the buffet quotations.",
+"Marcos and Jaque commented on the buffet quotations.",
 "Marcos changed the estimate of {src_name}.",
-"Marcos and Jaque commented on the buffet budgets",
+"Marcos and Jaque commented on the buffet quotations",
 
-"Marcos uploaded a file on the buffet budgets.",
-"Marcos and Jaque uploaded files on the buffet budgets.",
+"Marcos uploaded a file on the buffet quotations.",
+"Marcos and Jaque uploaded files on the buffet quotations.",
 
-"Marcos made 8 changes to the buffet budget.",
-"Marcos and Jaque made 8 changes on the buffet budget.",
+"Marcos made 8 changes to the buffet quotations.",
+"Marcos and Jaque made 8 changes on the buffet quotations.",
 
-"Marcos made 8 changes to the Event's cost estimates",
-"Marcos and Jaque made 8 changes to the Event's cost estimates",
+"Marcos made 8 changes to the cost estimates of the Event",
+"Marcos and Jaque made 8 changes to the cost estimates of the Event",
 
 "Marcos was added as responsible for the task of hiring a buffet.",
 //provavelmente "contratar buffet" vai ser uma variavel, então
@@ -21,11 +22,11 @@
 "Marcos and Jaque were added as responsible for the task of hiring a buffet."
 //Mesma coisa, "Marcos and Jaque were added as responsible of the task hire a buffet."
 
-"Marcos commented on the buffet budgets",
-"Marcos and Jaque commented on the buffet budgets",
+"Marcos commented on the buffet quotations",
+"Marcos and Jaque commented on the buffet quotations",
 
 "Marcos set the hire a buffet task as completed.",
-"Marcos and Jaque set the hire a buffet task as completed.",
+"Marcos and Jaque have set the hire a buffet task as completed.",
 
 "Marcos created the task hire a buffet.",
 "Marcos and Jaque created the task hire a buffet",
