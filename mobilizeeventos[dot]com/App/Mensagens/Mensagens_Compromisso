@@ -1,12 +1,12 @@
 Create:
   An appointment was added successfully
-  Failure when adding appointment
+  Failure when trying to add an appointment
 Change:
   Appointment changed successfully
-  Failure when changing appointment
+  Failure when trying to change an appointment
 Remove:
   Are you sure that you want to remove this appointment?
   Appointment removed successfully
-  Failure when removing appointment
+  Failure when trying to remove an appointment
 Standart message:
   Have any appointments? Add them here!
