@@ -17,18 +17,17 @@ Remove all checking:
   from this costs spreadsheet? This action cannot be undone.
 Change payments:
   Contract payments successfully updated!
-  Failure when trying to update payments./ Failure when updating payments
+  Failure when trying to update payments.
 Remove payments:
   Contract payments successfully removed!
-  Failure when removing contract payments!
+  Failure when trying to remove contract payments!
 Remove payments checking:
   Are you sure that you want to remove the supplier's payments?
 Add payments checking:
   You must fill all the value and date fields before adding payments
 Payment bill warning:
-  Just to inform you, the sum of the payments didn't match the value of the contract.
+  Just to inform you, the sum of the payments didn't match the contract's total amount.
 Standar message:
   You don't have any scheduled payments for the event. Let's maintain control?
 Standar message (2):
-  Control all the necessary services, quotations and contracts to make your event a success.
-  
+  Control all the necessary services, quotations and contracts to make your event a successfull one.
