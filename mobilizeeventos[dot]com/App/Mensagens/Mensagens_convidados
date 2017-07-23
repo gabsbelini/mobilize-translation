@@ -6,22 +6,22 @@ Discard invitation:
 Loading invitation:
   Wait, we are saving the previous invitation.
 Create invitation checking:
-  Attention! You must fill the name of the invitation before adding it.
+  Attention! You must fill in the name of the invitation before adding it.
 Remove invitation checking:
-  Are you sure that you want to remove the invitation and all its guests?
+  Are you sure that you want to remove the invitation and all of it's guests?
 Create invitation:
   Invitation successfully created
-  Failure when adding invitation.
+  Failure when trying to add invitation.
 Read invitation:
-  Failure when reading invitation data.
+  Failure when trying to read invitation data.
 Change invitation:
-  Failure when updating invitation data.
+  Failure when trying to update invitation data.
 Create guests group:
   Guests group successfully added!
-  Failure when adding guests group.
+  Failure when trying to add guests group.
 Import guests group:
   Guests group successfully imported!
-  Failure when importing guests group.
+  Failure when trying to import guests group.
 Add guest checking:
   Attention: You need to fill in the name of the invitation before adding it.
 Add guest checking (2):
