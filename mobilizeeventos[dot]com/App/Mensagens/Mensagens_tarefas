@@ -10,18 +10,18 @@ Removed List:
   Task list successfully removed
   Failure when removing task list.
 Rescheduled tasks:
-  The selected tasks dates were successfully redefined!
-  Failure when redefining the selected tasks dates.
+  The selected task dates were successfully redefined!
+  Failure when redefining the selected task dates.
 Attachment added:
   Attachment successfully sent!
   Failure while adding attachment.
 Attach checking link:
-  It didn't work... remember to type the link's address!
+  It didn't work... remember to type the address of the link!
 Supplier checking:
   You must choose a cost.
   You must choose a supplier.
 Supplier removed
-  Are you sure you want to remove the suppler (name) from the event (name)?
+  Are you sure you want to remove the supplier (name) from the event (name)?
 
   Warning! You'll also be removing this supplier from the Event costs spreadsheet.
 Responsible added:
