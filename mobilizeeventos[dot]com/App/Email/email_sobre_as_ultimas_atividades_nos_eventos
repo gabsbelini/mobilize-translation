@@ -36,8 +36,8 @@ List of activities
 "Marcos commented in the buffet quotations",
 "Marcos and Jaque commented in the buffet quotations",
 
-"Marcos set the hire a buffet task as done" //Ambos corretos, o primeiro mais parecido com o que foi escrito em portugues. "Marcos changed the status of the task hire a buffet to done"
-"Marcos and Jaque set the hire a buffet task as done"// Mesma coisa de cima, Marcos and Jaque changed the hire a buffet task status to done.
+"Marcos set the hire a buffet task as done"
+"Marcos and Jaque set the hire a buffet task as done"
 
 "Marcos created the task hire a buffet.",
 "Marcos and Jaque created the task hire a buffet.",
@@ -78,7 +78,7 @@ List of activities
 "Marcos commented on the contract with the supplier Grande Mesa Buffet.",
 "Marcos and Jaque commented on the contract with the supplier Grande Mesa Buffet.",
 
-"Marcos contracted the supplier Grande Mesa Buffet.",
+"Marcos hired the supplier Grande Mesa Buffet.",
 "Marcos and Jaque hired the supplier Grande Mesa Buffet.",
 
 "Marcos created a quotation with the supplier Grande Mesa Buffet.",
@@ -88,7 +88,7 @@ List of activities
 "Marcos changed the quotation with the supplier Grande Mesa Buffet.",
 "Marcos and Jaque changed the quotation with the supplier Grande Mesa Buffet.",
 
-"Marcos updated 8 tasks if the event.",
+"Marcos updated 8 tasks of the event.",
 "Marcos and Jaque updated 8 tasks of the event.",
 
 "Marcos made the upload of a file on the contract with Grande Mesa Buffet",
@@ -110,4 +110,4 @@ List of activities
 "Marcos made 8 changes on the appointments of the event.",
 "Marcos and Jaque made 8 changes on the appointments of the event.",
 "Marcos was added as responsible for the event João and Maria's Wedding.",
-"Marcos and Jaque were added as responsible of the event João and Maria's Wedding.",
+"Marcos and Jaque were added as responsible for the event João and Maria's Wedding.",
