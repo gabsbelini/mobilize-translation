@@ -1,12 +1,12 @@
 //https://mobilizeeventos.zendesk.com/hc/pt-br/articles/115001382108-Qual-a-diferen%C3%A7a-entre-cliente-e-usu%C3%A1rio-
 
-What is the difference between client and user?
+What is the difference between a client and an user?
 
 The mobilize events is a collaborative event organization platform.
 
 This means that you can invite people to collaborate with you
-on the event organizations. As a user can also be a client, this raises some doubts.
-I'll explain here, what is an User and a Client inside mobilize events.
+on the event organizations. As an user can also be a client, this raises some questions.
+I'm going to explain here, what is an User and a Client inside mobilize events.
 [image]
 
 What is an User?
@@ -16,12 +16,11 @@ Any person who can be invited to the system and has a login is a mobilize events
 Types of Users
   - Administrator User: the responsible for the events organization company (ceremonialist)
   - Collaborator User: the collaborators and employees of the company (secretaries, assistants).
-  - Usuário Cliente: the hosts of the events organized by the company (engaged couple,
-<<<<<<< HEAD
+  - Client User: the hosts of the events organized by the company (engaged couple,
   father of the engaged couple, graduates, business comission, etc).
   // debutante só existe no brasil, fonte "wikipedia/Coming_of_age";
   //se quiser pode colocar "sweet sixteen" dentro do parenteses, é bem parecido
-  //com festa de 15 anos, mas só tem nos EUA, por enquanto deixei sem, você decide.
+  //com festa de 15 anos, mas só tem nos EUA, por enquanto deixei sem.
 
 Each Event may have none, one or more Client Users.
 
@@ -29,28 +28,11 @@ What is a Client?
 
 At mobilize events, the Client is the legal responsible for the Event.
 
-Important and detailed informations about that event's contractor is stored
+Important and detailed information about that event's contractor is stored
 at the Client, it may be the host itself, a relative or a contracting company (
 in the case of business events).
 
 Each Event has only one Client.
 
 Note: Saving a Client's data at mobilize events does not create an User. To do that,
-add an User: the login will be created and sent by email to the client.
-=======
-  engaged couple's parents, graduates, business commission, etc).
-
-  Each Event might have none, one or more Client Users.
-
-  What is a Client?
-
-  At mobilize events, the Client is the legal responsible for the Event.
-
-  Detailed information about that event's contractor are stored on the Client be it
-  the host itself, a relative or the contracting company (in case of business events).
-
-Each Event has only one Client
-
-Observation:Saving the Client's information at mobilize events does not create an User.
-To do that, add an User: the login will be created and sent by email to the client.
->>>>>>> 7a03e06702ef7f4389f2322beb02c6aa45da87c2
+you must Add an User: the login will be created and sent by email to the client.
