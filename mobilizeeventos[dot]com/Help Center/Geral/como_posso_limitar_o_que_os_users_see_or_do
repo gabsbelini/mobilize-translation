@@ -8,7 +8,7 @@ system fits into your company's standarts. You make this type of control through
 the Access Permissions.
 
 Warning! Some settings in Access Permissions might drastically change the way your
-environment works at mobilize events. If you have any doubts, get in touch with us first! :)
+environment works at mobilize events. If you have any questions, get in touch with us first! :)
 
 Access Permissions
   - Accessing the Access Permissions
@@ -22,7 +22,7 @@ Access Permissions.
 
 User Profiles
 
-Mobilize counts, by default, on two User Profiles: Administrador and
+Mobilize counts, by default, on two User Profiles: Administrator and
 Client. Thus, you can control both what your collaborators and your clients can access.
 
 To choose which User Profile you want to manage, select the button:
@@ -47,7 +47,7 @@ To disable or enable full access to one of the modules,
 
  Managing the access to the services
 
- The services are the features that an User in a mobilize event's module.
+ The services are the features that an User can accomplish inside a mobilize event's module.
 
  Usually, the services allow the User to create, edit or remove some kind of object
  on the platform (such as an Event or a Supplier).
