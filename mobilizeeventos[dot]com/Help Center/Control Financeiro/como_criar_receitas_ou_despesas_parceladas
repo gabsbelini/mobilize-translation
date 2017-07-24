@@ -1,19 +1,22 @@
 //https://mobilizeeventos.zendesk.com/hc/pt-br/articles/115001381708-Como-criar-receitas-ou-despesas-parceladas-
 
 
-How to create revenues or expenses in a installment format
+How to create installments for revenues or expenses
 
 Creating installment movimentations will save you time and centralize the information,
 allowing you to keep up with the installment payment process.
 
 Creating Installments
-  1. Access the Financial module, by clicking on the ($) button, on the side menu.
+  1. Access the Financial module by clicking on the ($) button, on the side menu.
   2. Click on the (+) button on the lower right corner.
   3. Choose to add a Revenue or Expense.
   4. Fill in financial movement data: Description (required), Installment Value,
-  (required), Status, FIRST dUE DATE and comments.
-  5. Click on the field "Repeats?" and select the interval between the installments
-  (weekly, monthly or yearly).
+  (required), Status, first due date and comments.
+  5. Click on the field "Does it Repeat?" and select the interval between the installments
+  No, it doesn't
+  yes, weekly,
+  yes, monthly,
+  yes, yearly.
   [image]
   6. The field How Many Installments? will be shown. Fill it in with the installments
   count.
